@@ -1,0 +1,11 @@
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\kacperr\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.AboutBox1.resources
