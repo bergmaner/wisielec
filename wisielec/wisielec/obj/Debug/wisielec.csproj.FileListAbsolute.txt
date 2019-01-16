@@ -1,0 +1,7 @@
+C:\Users\kacperr\source\repos\wisielec\wisielec\bin\Debug\wisielec.exe.config
+C:\Users\kacperr\source\repos\wisielec\wisielec\bin\Debug\wisielec.exe
+C:\Users\kacperr\source\repos\wisielec\wisielec\bin\Debug\wisielec.pdb
+C:\Users\kacperr\source\repos\wisielec\wisielec\obj\Debug\wisielec.csprojAssemblyReference.cache
+C:\Users\kacperr\source\repos\wisielec\wisielec\obj\Debug\wisielec.csproj.CoreCompileInputs.cache
+C:\Users\kacperr\source\repos\wisielec\wisielec\obj\Debug\wisielec.exe
+C:\Users\kacperr\source\repos\wisielec\wisielec\obj\Debug\wisielec.pdb
